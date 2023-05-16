@@ -1,0 +1,37 @@
+/* Stiluri pentru titlu */
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem 0;
+    color: #007bff;
+  }
+  
+  /* Stiluri pentru întrebări */
+  #question {
+    font-size: 1.2rem;
+    margin: 2rem 0;
+    color: #76aa16;
+  }
+  
+  /* Stiluri pentru răspunsuri */
+  label {
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 1rem;
+  }
+  
+  /* Stiluri pentru butonul de submit */
+  button {
+    background-color: #007bff;
+    color: #811313;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    margin-top: 2rem;
+  }
+  
+  button:hover {
+    background-color: #0069d9;
+  }
+  
